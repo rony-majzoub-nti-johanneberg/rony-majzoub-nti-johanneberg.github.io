@@ -8,6 +8,8 @@
 	 --accent-color-active: #5A74D1;
 	 --accent-rgb: rgba(114,137,218,0.3);
 	 --accent-text-color: #fff;
+
+	 --interactive-normal: rgba(0,0,0,0,87);
  
 	 --notification-color: #bbb;
 	 --audio-flash: 63,81,181;
@@ -4401,10 +4403,6 @@ button[disabled],
 	opacity: 1;
 }
 
-.layout-2DM8Md {
-	background: transparent !important;
-}
-
 .closeButton-2GCmT5 {
 	position: relative;
 	margin: 2px;
@@ -4660,12 +4658,10 @@ button[disabled],
 /* HOME TAB -> PAGES */
 
 .linkButtonIcon-Mlm5d6 {
-	opacity: 0.25;
+	opacity: 1;
 }
 
-.linkButtonIcon-Mlm5d6 path[fill="currentColor"] {
-	fill: #fff !important;
-}
+
 
 .channel-2QD9_O.selected-1HYmZZ .linkButtonIcon-Mlm5d6 {
 	opacity: 0.8;
@@ -15122,18 +15118,18 @@ body:active .layer-v9HyYc[style*="left: 80px"] .animatorTop-2Y7x2r .menu-Sp6bN1:
 
 ::-webkit-scrollbar-thumb {
 	display: initial;
-	background-color: rgba(255,255,255,0.1) !important;
+	background-color: rgba(0,0,0,0.60) !important;
 	border: 0 solid transparent !important;
 	border-radius: 0 !important;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background-color: rgba(255,255,255,0.125) !important;
+	background-color: rgba(0,0,0,0.65) !important;
 }
 
 ::-webkit-scrollbar-thumb:active {
 	display: initial;
-	background-color: rgba(255,255,255,0.15) !important;
+	background-color: rgba(0,0,0,0.70) !important;
 }
 
 
