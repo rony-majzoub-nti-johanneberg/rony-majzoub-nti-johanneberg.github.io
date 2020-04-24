@@ -208,32 +208,6 @@
 
 /* POPOUT BACKGROUND[IMPORTANT] */
 
-.chat-3bRxxu,
-.chat-3bRxxu > .content,
-.friends-table,
-.regionSelectModal-12e-57,
-.theme-dark .modal-3HOjGZ,
-.footer-30ewN8,
-.footer-2VgWkh,
-.uploadModal-2ifh8j,
-.uploadModal-2ifh8j .footer-3mqk7D,
-.wrapper-O5i5-0,
-.wrapper-O5i5-0 .instantInviteModal-3vhcvC .form-actions,
-.inner-tqJwAU,
-.card-11ynQk:before,
-.gifTag-2VwDRa,
-.group-2dAfBy,
-.inviteModal-34DdOm .scroller,
-.invite-CTGItT,
-.bd-modal-wrapper .header,
-.bd-modal-wrapper .bd-modal-body,
-.bd-modal-wrapper .footer-2yfCgX,
-.contentWrapper-3WC1ID:only-child,
-.contentWrapper-3WC1ID,
-.theme-dark .quickswitcher-3JagVE {
-	background: var(--popout-color) !important;
-}
-
 .messagesWrapper-3lZDfY,
 .content-yTz4x3,
 .noChannel-Z1DQK7 {
@@ -1003,11 +977,6 @@ body,
 	background: var(--popout-alt) !important;
 	border: none !important;
 }
-
-.css-bdfdb-control {
-	background: var(--popout-color) !important;
-}
-
 .css-ua3v5p-menu,
 .css-181m2lf-menu {
 	padding: 8px 0;
@@ -1017,10 +986,6 @@ body,
 	box-shadow: var(--shadow-3dp);
 	border-top: 1px solid var(--hover-color);
 	animation: opacity 250ms ease !important;
-}
-
-.BDFDB-select .css-ua3v5p-menu {
-	background: var(--popout-color) !important
 }
 
 .css-1aymab5-option,
@@ -1454,13 +1419,8 @@ body,
 
 .modal-3v8ziU,
 .modal-yWgWj- {
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big) !important;
 	box-shadow: var(--shadow-3dp) !important;
-}
-
-.modal-3v8ziU .ui-standard-sidebar-view {
-	background: var(--popout-color) !important;
 }
 
 .modal-1sor29.root-1gCeng.fullscreenOnMobile-1bD22y {
@@ -1513,7 +1473,6 @@ body,
 
 .footer-3rDWdC {
 	padding: 8px;
-	background: var(--popout-color) !important;
 	border-top: 1px solid var(--card-border-color);
 	box-shadow: none !important;
 }
@@ -1654,7 +1613,6 @@ body,
 .authBox-hW6HRx {
 	position: relative;
 	padding: 16px;
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big) var(--border-radius-big) 0 0;
 	box-shadow: var(--shadow-3dp) !important;
 }
@@ -1666,7 +1624,6 @@ body,
 	bottom: -54px;
 	width: 100%;
 	height: 54px;
-	background: var(--popout-color);
 	border-radius: 0 0 var(--border-radius-big) var(--border-radius-big);
 	box-shadow: var(--shadow-3dp);
 	border-top: 1px solid var(--card-border-color);
@@ -2091,7 +2048,6 @@ body,
 /* MODALS -> AUTHORIZE APP */
 
 .oauth2Authorize-1i7dh_ .authorizeInner-2_0fZk {
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big);
 }
 
@@ -2122,10 +2078,6 @@ body,
 
 .oauth2Authorize-1i7dh_ .authorizeInner-2_0fZk .scopes-Q1ojki .scope-371Mpu .scopeCheck-U1DeOx {
 	margin: 16px 16px 0 0;
-}
-
-.oauth2Authorize-1i7dh_ .authorizeInner-2_0fZk .scopes-Q1ojki .scope-371Mpu .scopeCheck-U1DeOx .scopeCheckInner-1PkeRq {
-	border: 2px solid var(--popout-color);
 }
 
 .oauth2Authorize-1i7dh_ .authorizeInner-2_0fZk .scopes-Q1ojki .scope-371Mpu .scopeInner-xs9ROe {
@@ -2193,7 +2145,6 @@ body,
 .item-5R5nmE,
 .slide-2pHaq5 {
 	height: 100%;
-	background: var(--popout-color) !important;
 }
 
 .news-2KwXHF:not(.newsEmpty-3tvLgI):after {
@@ -2698,7 +2649,6 @@ body,
  */
 
 .keyboardShortcutsModal-3piNz7 {
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big);
 }
 
@@ -5868,7 +5818,6 @@ button[disabled],
 }
 
 .addGamePopout-2RY8Ju {
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big);
 	box-shadow: var(--shadow-3dp) !important;
 }
@@ -6374,7 +6323,6 @@ h2.title-3sZWYQ.h2-2gWE-o + .children-rWhLdy div:not([class]) .title-3sZWYQ.h5-1
 }
 
 .container-2VW0UT {
-	background-color: var(--popout-color) !important;
 	border-radius: 0;
 	box-shadow: var(--shadow-1dp), 0px -6px 8px rgba(0,0,0,0.15) !important;
 }
@@ -6876,7 +6824,6 @@ h2.title-3sZWYQ.h2-2gWE-o + .children-rWhLdy div:not([class]) .title-3sZWYQ.h5-1
 .positionTop-3e-X1p .header-2bNvm4,
 .positionBottom-3oo9L9 .header-2bNvm4 {
 	padding: 0;
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big) var(--border-radius-big) 0 0 !important;
 }
 
@@ -7647,7 +7594,6 @@ div:not([class])[style="opacity: 1; height: 56px; transform: scale(1);"] .listIt
 /* SERVER LIST -> SERVERS -> NATIVE SERVER FOLDERS -> FOLDER SETTINGS */
 
 .root-1gCeng {
-	background: var(--popout-color) !important;
 	border-radius: var(--border-radius-big);
 	box-shadow: var(--shadow-3dp) !important;
 }
@@ -11894,23 +11840,8 @@ body:active .userPopout-3XzG_A:not(:active) {
 
 }
 
-.headerPlaying-2eYqm9,
-.headerPlaying-2Q7mBy,
-.headerPlaying-j0WQBV {
-	background: var(--popout-color) !important;
-}
-
-.topSectionNormal-2-vo2m,
-.topSectionPlaying-1J5E4n {
-	background: var(--popout-color) !important;
-}
-
 .listScroller-2_vlfo {
 	padding: 16px 0;
-}
-
-.headerNormal-T_seeN {
-	background: var(--popout-color) !important;
 }
 
 .headerTop-1QGMLs,
@@ -12235,7 +12166,6 @@ body:active .userPopout-3XzG_A:not(:active) {
 	padding: 0;
 	border-radius: 16px;
 	border: none;
-	background: var(--popout-color);
 	transition: 200ms ease;
 }
 
@@ -12328,7 +12258,6 @@ body:active .userPopout-3XzG_A:not(:active) {
 
 .userPopout-3XzG_A .actionButton-VzECiy,
 .member-1q7VfX .actionButton-VzECiy {
-	background: var(--popout-color) !important;
 	border-radius: 16px !important;
 	box-shadow: none !important;
 }
@@ -12583,10 +12512,6 @@ body:active .translate-2dAEQ6.animatorTop-2Y7x2r:not(:active) {
 
 #autocomplete-popout header {
 	background: #1a1c1e !important;
-}
-
-#autocomplete-popout section {
-	background: var(--popout-color) !important;
 }
 
 #autocomplete-popout .autocomplete-arrow-wrapper {
@@ -13168,7 +13093,6 @@ body:active .menu-Sp6bN1:not(.alt-3btY0e):not(:active) {
 }
 
 .tiles-2aXG_k {
-	background-color: var(--popout-color) !important;
 	box-shadow: none !important;
 }
 
@@ -14921,7 +14845,6 @@ body:active .layer-v9HyYc[style*="left: 80px"] .animatorTop-2Y7x2r .menu-Sp6bN1:
 	width: 100%;
 	height: 48px !important;
 	padding: 0 !important;
-	background: var(--popout-color);
 	border-radius: 0 !important;
 }
 
@@ -15380,13 +15303,6 @@ body:active .layer-v9HyYc[style*="left: 80px"] .animatorTop-2Y7x2r .menu-Sp6bN1:
 
 .ace_content {
 	background: var(--message-color) !important;
-}
-
-.ace_gutter,
-.content-region #bd-customcss-attach-controls,
-#bd-customcss-detach-container #bd-customcss-attach-controls,
-.contentRegion-3nDuYy #bd-customcss-attach-controls {
-	background-color: var(--popout-color) !important;
 }
 
 .contentRegion-3nDuYy #bd-customcss-attach-controls {
