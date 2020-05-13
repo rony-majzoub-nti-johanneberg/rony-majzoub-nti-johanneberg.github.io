@@ -434,7 +434,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .media-container {
   flex-shrink: 0;
-  margin-right: 5vw;
   margin-top: 2vh;
   margin-bottom: 1vh;
   height: auto;
